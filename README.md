@@ -1,5 +1,5 @@
 # Datacamp-Portfolio-Projects
-Several Data analysis, Data Science projects hosted by DataCamp
+Several DataCamp projects (data analysis, machine learning, statistics, NLP and Deep Learning) completed by me.
 
 Profile: [Olugbenga Michael Alakija](https://www.datacamp.com/profile/mralakija)
 
